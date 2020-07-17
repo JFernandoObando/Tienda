@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="finalizar">Recursos/imprimir-tarjetas.png</file>
+        <file alias="add">Recursos/mas.png</file>
+        <file alias="tienda">Recursos/tienda.png</file>
+    </qresource>
+</RCC>
